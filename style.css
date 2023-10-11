@@ -1,0 +1,622 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    height: 490px;
+    background-image: url(photo/ADULT-lander-knitwear.jpg);
+    background-repeat: no-repeat;
+     background-size: cover;
+}
+.header1{
+    width: 100%;
+    height: 50px;
+    display: flex;
+}
+.logo-name{
+    width: 250px;
+    height: 40px;
+    padding-left: 50px;
+    padding-top: 10px;
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+}
+.logo-name:hover{
+    color: black;
+}
+.header-center{
+    width: 750px;
+    height: 50px;
+    margin-left: 190px;
+    color: white;
+
+}
+.header-button1{
+    width: 60px; 
+    height: 30px;
+    color: white;
+    background-color: transparent;
+    border: none;
+    font-size: 14px;
+    margin-left: 30px;
+    margin-top: 10px;
+    
+
+}
+.header-button1:hover{
+    color: black;
+}
+.header-button2{
+    width: 60px;
+    height: 30px;
+    color: white;
+    background-color: transparent;
+    border: none;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.header-button2:hover{
+    color: black
+}
+.header-button3{
+    width: 30px;
+    height: 30px;
+    color: white;
+    background-color:transparent;
+    border: none;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+.header-button3:hover{
+    color: black;
+
+}
+.header-button4{
+    width: 150px;
+    height: 10px;
+    color: white;
+    background-color: transparent;
+    border: none;
+    font-size: 14px;
+    margin-left: 5px;
+    margin-top: 10px;
+
+}
+.header-button4:hover{
+    color: black;
+}
+.header-button5{
+    width: 150px;
+    height: 10px;
+    color: white;
+    background-color: transparent;
+    border: none;
+    font-size: 14px;
+    margin-top: 10px;
+  
+}
+.header-button5:hover{
+    color: black;
+}
+.header-icon{
+    width: 350px;
+    height: 50px;
+    margin-left: 180px;
+
+}
+.search-icon{
+    padding-top: 30px;
+    padding-left: 10px;
+    
+}
+.user-icon{
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.like-icon{
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.shope-icon{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+.header2{ 
+     width: 100%;
+     height: 50px;
+     margin-top: 130px;
+}
+.header2-text{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    color: white;
+}
+.header3{
+    width: 100%;
+     height: 40px;
+}
+.header3-text{
+     padding-left: 640px;
+    color: white;
+    font-size: 55px;
+    font-family: monospace;
+}
+.header4{
+    width: 100%;
+    height: 80px;
+}
+.header4-text{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    color: white;
+    font-size: 50px;
+}
+.header5{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    margin-top: 30px;
+}
+.header5-b1{
+   width: 300px;
+    height: 50px;
+    margin-left: 350px;
+    border: none;
+    font-size: 15px;
+}
+.header5-b2{
+width: 300px;
+height: 50px;
+border: none;
+margin-left: 100px;
+font-size: 15px;
+}
+.text-big1{
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 200px;
+
+}
+.green-box{
+    width: 200px;
+    height: 40px;
+    margin-top: 150px;
+    background-color: green;
+    color:white;
+  align-items: end;
+
+}
+.body1{
+    width: 100%;
+    height: 661px;
+    margin-top: 110px;
+    display: flex;
+}
+.body1-img1{
+    background-image: url(photo/image1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   width: 33.3%;
+   height:600px ;
+   margin-left: 2px
+}
+.img1-text1{
+    width: 260px;
+    height: 40px;
+    color: white;
+    font-size: 35px;
+    margin-top: 450px;
+    margin-left: 100px;
+
+    
+}
+.img1-text2{
+    width: 150px;
+    height: 30px;
+    color: white;
+    font-size: 35px;
+    margin-left: 180px;
+
+}
+.img1-text3{
+    width: 100px;
+    height: 20px;
+    color: white;
+    margin-left: 188px;
+    margin-top: 5px;
+}
+.img1-text3:hover{
+    color: gray;
+}
+.body1-img2{
+    width: 33.3%;
+    height:600px ;
+    background-image: url(photo/image2.jpg);  
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img2-text1{
+    width: 260px;
+    height: 40px;
+    color: white;
+    font-size: 35px;
+    margin-top: 450px;
+    margin-left: 120px;
+
+    
+}
+.img2-text2{
+    width: 150px;
+    height: 30px;
+    color: white;
+    font-size: 35px;
+    margin-left: 196px;
+
+}
+.img2-text3{
+    width: 100px;
+    height: 20px;
+    color: white;
+    margin-left: 180px;
+    margin-top: 5px;
+}
+.img2-text3:hover{
+    color: gray;
+}
+.body1-img3{
+    width: 33.3%;
+    height:600px ;
+    background-image: url(photo/image3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.img3-text1{
+    width: 260px;
+    height: 40px;
+    color: white;
+    font-size: 35px;
+    margin-top: 450px;
+    margin-left: 110px;
+
+    
+}
+.img3-text2{
+    width: 150px;
+    height: 30px;
+    color: white;
+    font-size: 35px;
+    margin-left: 200px;
+
+}
+.img3-text3{
+    width: 100px;
+    height: 20px;
+    color: white;
+    margin-left: 180px;
+    margin-top: 5px;
+}
+.img3-text3:hover{
+    color: gray;
+}
+.text-big2{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.body2{
+    width: 100%;
+    height: 250px;
+    display: flex;
+}
+.image4{
+    width: 15%;
+    height: 90%;
+    margin-left: 20px;
+}
+.image5{
+    width: 15%;
+    height: 90%;
+    margin-left: 20px;
+}
+.image5{
+
+    width: 15%;
+    height: 90%;
+    margin-left: 20px;
+}
+.image6{
+
+    width: 15%;
+    height: 90%;
+    margin-left: 20px;
+}
+.image7{
+
+    width: 15%;
+    height: 90%;
+    margin-left: 20px;
+}
+.image8{
+    width: 15%;
+    height: 90%;
+    margin-left: 20px;
+
+}
+.image9{
+    width: 15%;
+    height: 90%;
+    margin-left: 20px;
+
+}
+.button-big{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.button-big1{
+    width: 450px;
+    height: 75px; 
+    margin-top: 110px;
+    background-color: white;
+    border-width: 1px;
+}
+.button-big1:hover{
+      
+    border-color: green;
+    color: green;
+}
+.image10{
+    width: 100%;
+    height: 700px;
+}
+.body3{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    background-color: brown;
+}
+.image11{
+    width: 50%;
+    height: 100%;
+    background-image: url(photo/image11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image11-text{
+    width: 300px;
+    height: 410px;
+    background-color: rgb(90, 90, 250);
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.image11-text1{
+    font-family: sans-serif;
+    color: white;
+    font-size: 29px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.image11-text2{
+    font-family: sans-serif;
+    color: white;
+    font-size: 29px;
+    padding-left: 30px;
+
+}
+.image11-text3{
+    font-family: sans-serif;
+    color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 14px;
+}
+.image11-text4{
+    font-family: sans-serif;
+    color: white;
+    padding-left: 20px;
+    padding-top: 7px;
+    font-size: 14px;
+}
+.image11-text5{
+    font-family: sans-serif;
+    color: white;
+    padding-left: 20px;
+    padding-top: 8px;
+    font-size: 14px;
+}
+.image11-text6{
+    font-family: sans-serif;
+    color: white;
+    padding-left: 20px;
+    padding-top: 8px;
+    font-size: 14px;
+}
+.image11-text7{
+    font-family: sans-serif;
+    color: white;
+    padding-left: 20px;
+    margin-top: 160px;
+    font-size: 15px;
+}
+.image11-text7:hover{
+    color: gray;
+}
+.image12{
+    width: 50%;
+    height: 100%;
+ position: relative;
+
+}
+.image-12{
+    width: 670px;
+  height: 450px;
+
+}
+
+.image12{
+    width: 50%;
+    height: 100%;
+ position: relative;
+
+}
+.image12-text{
+    width: 290px;
+    height: 410px;
+    background-color: rgb(231, 144, 122);
+    position: absolute;
+    top: 22px;
+    left: 28px;
+}
+.image12-text1{
+    font-family: sans-serif;
+    color: white;
+    font-size: 26px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.image12-text2{
+    font-family: sans-serif;
+    color: white;
+    font-size: 26px;
+    padding-left: 20px;
+
+}.image12-text3{
+    font-family: sans-serif;
+    color: white;
+    font-size: 26px;
+    padding-left: 20px;
+
+}
+.image12-text4{
+    font-family: sans-serif;
+    color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 14px;
+}
+.image12-text5{
+    font-family: sans-serif;
+    color: white;
+    padding-left: 20px;
+    padding-top: 7px;
+    font-size: 14px;
+}
+.image12-text6{
+    font-family: sans-serif;
+    color: white;
+    padding-left: 20px;
+    padding-top: 8px;
+    font-size: 14px;
+}
+.image12-text7{
+    font-family: sans-serif;
+    color: white;
+    padding-left: 20px;
+    padding-top: 8px;
+    font-size: 14px;
+}
+.image12-text8{
+    font-family: sans-serif;
+    color: white;
+    padding-left: 20px;
+    padding-top: 8px;
+    font-size: 14px;
+}
+.image12-text9{
+    font-family: sans-serif;
+    color: white;
+    padding-left: 20px;
+    margin-top: 105px;
+    font-size: 15px;
+}
+.image12-text9:hover{
+    color: gray;
+}
+.image-13{
+    width: 670px;
+  height: 450px;
+
+}
+.footer{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.footer-div1{
+    width: 15%;
+    height: 100%;
+
+}
+.footer-div2{
+    width: 20%;
+    height: 100%;
+}
+.footer-div2-ul{
+    list-style: none;
+}
+.footer-div3{
+    width: 20%;
+    height: 100%;
+}
+.footer-div3-ul{
+    list-style: none;
+}
+.footer-div4{
+    width: 20%;
+    height: 100%;
+}
+.footer-div4-ul{
+    list-style: none;
+}
+.footer-div5{
+    width: 20%;
+    height: 100%;
+
+}
+.footer-div5-ul{
+    list-style: none;
+}
+.email-box{
+    width: 200px;
+    height: 20px;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-left: 1px;
+    border-right: 1px;
+    border-top: 1px;
+    border-color: green;
+    
+
+}
+.footer2{
+    width: 100%;
+    height: 40px;
+    display: flex;
+}
+.footer2-div1{
+    width: 20%;
+    height: 100%;
+    margin-left: 50px;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-top: 10px;
+}
+.footer2-div2{
+    width: 30%;
+    height: 100%;
+    margin-left: 200px;
+}
+
